@@ -20,3 +20,4 @@ after_success:
   - docker push someonesgarden/multi-nginx
   - docker push someonesgarden/multi-server
   - docker push someonesgarden/multi-worker
+
